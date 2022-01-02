@@ -1,5 +1,6 @@
 ### Hi! My name is Philip. 👋
-_Evergreening_ in tech one commit at a time. 🌲
+![header](https://user-images.githubusercontent.com/66290921/147866563-8de860fe-2850-4b0b-b865-8bd3f7bcff3c.jpg)
+
 
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

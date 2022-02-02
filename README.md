@@ -3,7 +3,7 @@
 
 My interests: :sponge: Learning, :technologist: Emergent Tech, :sun_behind_large_cloud: Philosophy, :soccer: Sports...
 
-QotW (Quote of the Week): "It’s easy when you find it but hard when you're looking for it."
+QotM (Quote of the Month): "It’s easy when you find it but hard when you're looking for it."
 
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,6 +2,7 @@
 ![header](https://user-images.githubusercontent.com/66290921/147894676-e8cacc66-db11-4503-bcee-ae7471e82325.jpg)
 
 My interests: :sponge: Learning, :technologist: Emergent Tech, :sun_behind_large_cloud: Philosophy, :soccer: Sports...
+"It’s easy when you find it but hard when you're looking for it."
 
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

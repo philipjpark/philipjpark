@@ -3,8 +3,7 @@
 
 My interests: :sponge: Learning, :technologist: Emergent Tech, :sun_behind_large_cloud: Philosophy, :soccer: Sports, :arrow_up: Upskilling...
 
-QotM (Quote of the Month): "It’s easy when you find it but hard when you're looking for it."
-
+QotM: Learning -> renting knowledge; Learning deeply -> owning knowledge; Researching -> creating knowledge. - Thomas Cormen 
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

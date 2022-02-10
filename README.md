@@ -3,7 +3,7 @@
 
 My interests: :sponge: Learning, :technologist: Emergent Tech, :sun_behind_large_cloud: Philosophy, :soccer: Sports, :arrow_up: Upskilling...
 
-QotM: <br /> Learning => Rent knowledge <br /> Learning deeply => Own knowledge <br /> Researching => Create knowledge - **Thomas Cormen** 
+QotM: <br /> Learning :arrow_right: Rent knowledge <br /> Learning deeply :arrow_right: Own knowledge <br /> Researching :arrow_right: Create knowledge - **Thomas Cormen** 
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

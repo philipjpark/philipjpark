@@ -1,9 +1,9 @@
 ### Hi! My name is Philip. 👋
 ![header](https://user-images.githubusercontent.com/66290921/147894676-e8cacc66-db11-4503-bcee-ae7471e82325.jpg)
 
-**My interests:** :sponge: learn, :arrow_up: upskill, :technologist: emergent tech, :bookmark: read, :sun_behind_large_cloud: philosophize, :soccer: sports...
+**Interests:** :sponge: learn, :arrow_up: upskill, :technologist: emergent tech, :bookmark: read, :sun_behind_large_cloud: philosophize, :soccer: sports...
 
-**QotM:** <br /> Learning :arrow_right: rent knowledge <br /> Learning Deeply :arrow_right: own knowledge <br /> Researching :arrow_right: create knowledge - **Thomas Cormen** 
+**QotM:** <br /> Learning :arrow_right: rent knowledge <br /> Learning Deeply :arrow_right: own knowledge <br /> :star2: Researching :arrow_right: create knowledge - **Thomas Cormen** 
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

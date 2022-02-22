@@ -3,7 +3,7 @@
 
 **Interests:** :sponge: learn, :arrow_up: upskill, :technologist: emergent tech, :sun_behind_large_cloud: philosophize, :soccer: sports...
 
-**QotM:** <br /> Learning :arrow_right: rent knowledge <br /> Learning Deeply :arrow_right: own knowledge <br /> :star2: Researching :arrow_right: create knowledge - **Thomas Cormen** 
+**QotM:** "Give every day the chance to become the most beautiful day of your life." - **Mark Twain** 
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

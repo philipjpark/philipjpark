@@ -1,7 +1,7 @@
 ### Hi! My name is Philip. 👋
 ![header](https://user-images.githubusercontent.com/66290921/147894676-e8cacc66-db11-4503-bcee-ae7471e82325.jpg)
 
-**Interests:** :sponge: learn, :arrow_up: upskill, :technologist: emergent tech, :sun_behind_large_cloud: philosophize, :soccer: sports...
+**Interests:** learn + upskill + emergent tech + philosophize + sports + ... = :sponge: + :arrow_up: + :technologist: + :sun_behind_large_cloud: + :soccer: + ...
 
 **QotM:** "Give every day the chance to become the most beautiful day of your life." - **Mark Twain** 
 <!--

@@ -3,7 +3,7 @@
 
 **Interests:** learn + upskill + emergent tech + philosophize + sports + ... = :sponge: + :arrow_up: + :technologist: + :sun_behind_large_cloud: + :soccer: + ...
 
-**QotM:** "Give every day the chance to become the most beautiful day of your life." - **Mark Twain** 
+**QotM:** Give every day the chance to become the most beautiful day of your life. - **Mark Twain** 
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

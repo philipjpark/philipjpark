@@ -1,9 +1,9 @@
 ### Hi! My name is Philip. 👋
 ![header](https://user-images.githubusercontent.com/66290921/147894676-e8cacc66-db11-4503-bcee-ae7471e82325.jpg)
 
-**Interests:** learn + upskill + emergent tech + philosophize + sports + ... = :sponge: + :arrow_up: + :technologist: + :sun_behind_large_cloud: + :soccer: + ...
+Interests: learn + upskill + emergent tech + philosophize + sports + ... = :sponge: + :arrow_up: + :technologist: + :sun_behind_large_cloud: + :soccer: + ...
 
-**QotM:** "Deep learning involves deeper reflection." - **Philip Park**
+**QotM:** "Deep learning involves deeper reflection." - Philip Park
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

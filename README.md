@@ -3,7 +3,7 @@
 
 Interests: learn + upskill + emergent tech + philosophize + sports + ... = :sponge: + :arrow_up: + :technologist: + :sun_behind_large_cloud: + :soccer: + ...
 
-**QotM:** "Deep learning involves deeper reflection." - Philip Park
+**QotM:** "Cognitive adventures are my type of adventures." - Philip Park
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

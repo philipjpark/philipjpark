@@ -3,7 +3,7 @@
 
 Interests: learn + upskill + emergent tech + philosophize + sports + ... = :sponge: + :arrow_up: + :technologist: + :sun_behind_large_cloud: + :soccer: + ...
 
-**QotM:** "Cognitive adventures are the most fulfilling."
+**QotM:** "Cognitive adventures are the most fulfilling." - **Philip Park**
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

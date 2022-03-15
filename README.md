@@ -1,9 +1,9 @@
 ### Hi! My name is Philip. 👋
 ![header](https://user-images.githubusercontent.com/66290921/147894676-e8cacc66-db11-4503-bcee-ae7471e82325.jpg)
 
-**Interests:** Learning + upskilling + emergent tech + philosophy + sports + ... = :sponge: + :arrow_up: + :technologist: + :sun_behind_large_cloud: + :soccer: + ...
+Interests: Learning + upskilling + emergent tech + philosophy + sports + ... = :sponge: + :arrow_up: + :technologist: + :sun_behind_large_cloud: + :soccer: + ...
 
-**QotW:** "Cognitive adventures are long-lasting." - Philip Park
+QotW: "Cognitive adventures are long-lasting." - Philip Park
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

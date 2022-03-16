@@ -3,7 +3,7 @@
 
 Interests: Learning + upskilling + emergent tech + philosophy + sports + ... = :sponge: + :arrow_up: + :technologist: + :sun_behind_large_cloud: + :soccer: + ...
 
-QotW: "Cognitive adventures are long-lasting." - Philip Park
+QotW: "Cognitive adventures are the most fulfilling." - Philip Park
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

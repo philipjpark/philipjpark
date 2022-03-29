@@ -3,7 +3,7 @@
 
 Interests: Learning + upskilling + emergent tech + philosophy + sports + ... = :sponge: + :arrow_up: + :technologist: + :sun_behind_large_cloud: + :soccer: + ...
 
-QotW: "Hard is a feature, not a bug." - Lex Fridman
+**QotW:** "There is something magical about challenges outside of one's comfort zone.”  
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,8 +3,7 @@
 
 Interests: :sponge:(learning) + :arrow_up:(upskilling) + :technologist:(emergent tech) + :sun_behind_large_cloud:(philosophy) + :soccer:(sports) + ...
 
-**QotW #1:** "There is something magical about challenges outside of one's comfort zone.”  
-**QotW #2:** “Hard is a feature not a bug.” – Lex Fridman
+**QotW:** "There is something magical about challenges outside of one's comfort zone.”  
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,7 @@
 ### Hi! My name is Philip. 👋
 ![header](https://user-images.githubusercontent.com/66290921/147894676-e8cacc66-db11-4503-bcee-ae7471e82325.jpg)
 
-Interests: :sponge:(learning) + :arrow_up:(upskilling) + :technologist:(emergent tech) + :sun_behind_large_cloud:(philosophy) + :soccer:(sports) + ...
+Interests: :sponge:(learning) + :arrow_up:(upskilling) + :technologist:(emergent tech) + :sun_behind_large_cloud:(philosophy) + :soccer:(sports) + :hourglass_flowing_sand:(history) + ...
 
 **QotW:** "There is something magical about challenges outside of one's comfort zone.”  
 <!--

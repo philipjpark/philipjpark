@@ -3,7 +3,7 @@
 
 **Interests:** :sponge:(learning) + :arrow_up:(upskilling) + :technologist:(emergent tech) + :sun_behind_large_cloud:(philosophy) + :soccer:(sports) + :hourglass_flowing_sand:(history) + ...
 
-**Quote of the Week:** "Upskilling takes lots of reskilling.” 
+**QotW:** "_Upskilling_ takes lots of _reskilling_.” 
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

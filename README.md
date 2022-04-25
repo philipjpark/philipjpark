@@ -5,8 +5,6 @@
 
 :speech_balloon: "_Upskilling_ takes a whole lot of _reskilling_.” 
 
-**QotW**: "Do what you can, it's all you can do." - Philip Park
-
 :thought_balloon: Solve problems, **innovate to serve**, tweak the wheel, stay humble, and **hunker down for the long haul**.
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

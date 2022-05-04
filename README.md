@@ -5,7 +5,7 @@
 
 **QotW**: "The most rewarding path is the one full of molehills, entanglements, and detours." - Philip Park
 
-:thought_balloon: Solve problems, **innovate to serve**, tweak the wheel, stay humble, and **hunker down for the long haul**.
+:thought_balloon: Solve problems, **innovate to serve**, tweak the wheel, stay humble, internalize the process, & **hunker down for the long haul**.
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

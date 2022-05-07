@@ -3,7 +3,7 @@
 
 **Interests:** :sponge:(learning) + :arrow_up:(upskilling) + :technologist:(emergent tech) + :sun_behind_large_cloud:(philosophy) + :soccer:(sports) + :hourglass_flowing_sand:(history) + ...
 
-**QotW**: "The most rewarding path is the one full of molehills, entanglements, and detours."
+**QotW**: "The most rewarding path is the one full of molehills, entanglements, and detours." - Philip Park
 
 :thought_balloon: Solve problems, **innovate to serve**, tweak the wheel, stay humble, internalize the process, & **hunker down for the long haul**.
 <!--

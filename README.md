@@ -5,7 +5,7 @@
 
 **QotW**: "A redeeming path is one full of molehills, entanglements, & detours." 
 
-:thought_balloon: Solve problems, **innovate to serve**, tweak the wheel, stay humble, internalize the process, & **hunker down for the long haul**.
+:thought_balloon: Solve problems, **innovate to serve**, stay humble, internalize the process, & **hunker down for the long haul**.
 <!--
 **philipjpark/philipjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

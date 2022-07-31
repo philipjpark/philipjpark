@@ -3,7 +3,7 @@
 
 **Interests:** :sponge:(learning) **+** :arrow_up:(upskilling) **+** :technologist:(emergent tech) **+** :sun_behind_large_cloud:(philosophy) **+** :soccer:(sports) **+** :hourglass_flowing_sand:(history) **+** ... 
 
-**QotW**: "Effort echoes. Perseverance gains favor." 
+**QotW**: "Effort echoes. Perseverance gains favor." - Philip Park
 
 :thought_balloon: Solve problems, **innovate to serve**, stay humble, **be optimistic**, internalize the process, & **hunker down for the long haul**.
 <!--

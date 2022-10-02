@@ -3,7 +3,7 @@
 
 **Interests:** :sponge:(learning) **+** :arrow_up:(upskilling) **+** :technologist:(emergent tech) **+** :sun_behind_large_cloud:(philosophy) **+** :soccer:(sports) **+** :hourglass_flowing_sand:(history) **+** ... 
 
-**QotW**: "Knowledge is not a birth rite...it's a rite of passage." 
+**QotW**: The goal is to get 10 lifetimes of learning packed into one... :) - Philip 
 
 
 <!--

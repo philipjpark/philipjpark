@@ -3,7 +3,7 @@
 
 **Interests:** :sponge:(learning) **+** :arrow_up:(upskilling) **+** :technologist:(emergent tech) **+** :sun_behind_large_cloud:(philosophy) **+** :soccer:(sports) **+** :hourglass_flowing_sand:(history) **+** ... 
 
-**QotW**: The goal is to get 10 lifetimes of learning packed into one... :) - Philip 
+**QotW**: Research w/o action remains theory - Philip 
 
 
 <!--

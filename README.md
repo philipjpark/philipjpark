@@ -3,7 +3,7 @@
 
 **Interests:** :sponge:(learning) **+** :arrow_up:(upskilling) **+** :technologist:(emergent tech) **+** :sun_behind_large_cloud:(philosophy) **+** :soccer:(sports) **+** :hourglass_flowing_sand:(history) **+** ... 
 
-**QotW**: Research w/o action remains theory. - Philip 
+**QotW**: An empire persists only when it lets go of hubris and rebuilds from scratch. Past accolades and ego are anathema to an empire's recovery from collapse. - Philip 
 
 
 <!--

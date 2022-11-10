@@ -3,7 +3,7 @@
 
 **Interests:** :sponge:(learning) **+** :arrow_up:(upskilling) **+** :technologist:(emergent tech) **+** :sun_behind_large_cloud:(philosophy) **+** :soccer:(sports) **+** :hourglass_flowing_sand:(history) **+** ... 
 
-**QotW**: An empire persists only when it lets go of hubris and is willing to rebuild from scratch. Dwelling on past accolades and ego are anathema to an empire's recovery from collapse. - Philip 
+**QotW**: Deep and wide learning...challenging yes but the reward is transcendent. :)  - Philip 
 
 
 <!--

@@ -3,7 +3,7 @@
 
 **Interests:** :sponge:(learning) **+** :arrow_up:(upskilling) **+** :technologist:(emergent tech) **+** :sun_behind_large_cloud:(philosophy) **+** :soccer:(sports) **+** :hourglass_flowing_sand:(history) **+** ... 
 
-**QotW**: "People who say it cannot be done should not interrupt those who are doing it." — George Bernard Shaw 
+**QotW**: "Esse est percipi." — George Berkeley
 
 
 <!--

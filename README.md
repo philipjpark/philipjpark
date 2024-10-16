@@ -3,7 +3,7 @@
 
 **Interests:** :sponge:(learning) **+** :arrow_up:(upskilling) **+** :technologist:(emergent tech) **+** :sun_behind_large_cloud:(philosophy) **+** :soccer:(sports) **+** :hourglass_flowing_sand:(history) **+** ... 
 
-**QotW**: "Esse est percipi." — George Berkeley
+**QotW**: "Life can only be understood backwards, but it must be lived forwards" — Soren Kierkegaard
 
 
 <!--
